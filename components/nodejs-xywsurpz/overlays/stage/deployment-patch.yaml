@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.7
+      - image: quay.io/rhtap-test-organization-jk/nodejs-xywsurpz:8d0ef6098f44f171f11a6bddc6cea983fa569c11@sha256:c736c79a105924b2326eb92c9623e647fd677bc183b347f52dc58c97d5859f29
         name: container-image  
